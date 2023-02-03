@@ -4,8 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 h = 0.01 #Step Size
-N = [2] #Initial Population of Prey
-P = [5] #Initial Population of Predator
+N = [5] #Initial Population of Prey
+P = [2] #Initial Population of Predator
 time = [0] #Initial Time
 maxtime = float(200) #Maximum Time till observation
 
@@ -13,7 +13,7 @@ maxtime = float(200) #Maximum Time till observation
 a1 = 0.1 # Natural Birth rate of Predator
 a2 = 0.2 # Natural Death rate of Prey
 gamma = 0.5 # Effect of prey on birth rate of predator
-b = 0.1 # Death Rate of prey as a result of predator's presence
+b = 1 # Death Rate of prey as a result of predator's presence
 k = 100 # Natural Death Constant in Logistics Model
 
 for t in range(1, int(maxtime/h) + 1):

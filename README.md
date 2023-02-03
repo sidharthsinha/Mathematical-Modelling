@@ -8,3 +8,4 @@ Lab 1:
 Lab 2:
 * Spruce Budworm Model or Pest Control Model
 * Prey Predator Model
+* Alternate Prey Predator Model

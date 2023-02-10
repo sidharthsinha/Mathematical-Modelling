@@ -9,6 +9,7 @@ Lab 2:
 * Spruce Budworm Model or Pest Control Model
 * Prey Predator Model
 * Alternate Prey Predator Model
+
 Lab 3:
 * Kermack McKendrick Model
 * Model with no Immunity

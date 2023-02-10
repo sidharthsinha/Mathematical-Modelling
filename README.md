@@ -13,3 +13,5 @@ Lab 2:
 Lab 3:
 * Kermack McKendrick Model
 * Model with no Immunity
+* Model with demography
+* Model with varying population
